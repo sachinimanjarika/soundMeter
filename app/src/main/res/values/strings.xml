@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SoundMeter</string>
+	<!-- MainActivitySound.java -->
+	<string name="activity_infobull">This is a custom message box</string>
+	<string name="activity_infotitle">About Noise Level</string>
+	<string name="activity_infobutton">Ok</string>
+	<string name="activity_recStartErr">Unable to start recording</string>
+	<string name="activity_recBusyErr">Recorder is busy or permission to record is prohibited</string>
+	<string name="activity_recFileErr">Can not create file</string>
+	<!-- activitysound_main.xmln.xml -->
+	<string name="activity_minlabel">Minimum</string>
+	<string name="activity_avglabel">Average</string>
+	<string name="activity_maxlabel">Maximum</string>
+	<string name="activity_curlabel">Real Time</string>
+	<!-- dialog_info.xml -->
+	<string name="info_10db">10dB : Breathing.</string>
+	<string name="info_20db">20dB : Clock Ticking.</string>
+	<string name="info_30db">30dB : Whisper.</string>
+	<string name="info_40db">40dB : Quiet Library.</string>
+	<string name="info_50db">50dB : Quiet Office.</string>
+	<string name="info_60db">60dB : Conversation.</string>
+	<string name="info_70db">70dB : Resturant.</string>
+	<string name="info_80db">80dB : Busy Traffic.</string>
+	<string name="info_90db">90dB : Motorcycle.</string>
+	<string name="info_100db">100dB : Subway Train.</string>
+	<string name="info_110db">110dB : Concerts.</string>
+	<string name="info_120db">120dB : Amplified Rock Music. Jet</string>
+	<string name="info_130db">130dB : Jackhammer.</string>
+	<string name="info_140db">140dB : Firearm.</string>
+</resources>
